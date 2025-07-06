@@ -68,17 +68,6 @@ Projected annual revenue = `average_price × capacity × occupancy_rate × 365`
 * **Python libraries**: Pandas, Plotly, Dash.
 * **Generative AI**: Integrated chatbot for interactive data exploration and support.
 
-## Repository Structure
-
-```
-├── data/                      # Raw and processed datasets
-├── notebooks/                 # Exploratory notebooks and IRP calculations
-├── dashboards/                # Power BI dashboard files
-├── app/                       # Dash application code (parallel coordinates)
-├── ai/                        # Generative AI model and configurations
-├── README.md                  # Project documentation (this file)
-└── requirements.txt           # Python dependencies
-```
 
 ## Installation & Execution
 
