@@ -1,0 +1,19 @@
+"Property P001
+
+Total Price (realSum): 500
+Guest Rating: 100
+Distance to Center: 0.24 km
+Distance to Metro: 0.96 km
+Superhost: True
+Period: Weekend
+Capacity: 6 people
+Property P002
+
+Total Price (realSum): 340
+Guest Rating: 30
+Distance to Center: 1.95 km
+Distance to Metro: 2.03 km
+Superhost: True
+Period: Weekday
+Capacity:  people
+Task: Calculate the IRP for each property using the rules
